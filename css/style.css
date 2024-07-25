@@ -1,0 +1,48 @@
+.our_prodacts {
+    border: solid rgb(228, 222, 222) .2px;
+    width: 22.2%;
+    float: left;
+}
+
+.pric {
+    color: rgb(59, 180, 59);
+}
+
+.p_pro {
+    color: gray;
+    width: fit-content;
+}
+
+.icon {
+    border: solid;
+    float: left;
+    color: aliceblue;
+    background-color: blue;
+    padding: 6px;
+
+}
+
+
+span {
+    padding: 6px;
+
+}
+
+.fa-regular {
+    margin-left: 120px;
+    border: solid rgb(82, 82, 235);
+    color: rgb(50, 50, 228);
+    padding: 6px;
+}
+
+img {
+    width: 75px;
+    height: 75px;
+}
+
+.products {
+    margin-left: 80px;
+}
+.line{
+    color: brown;
+}
